@@ -1,0 +1,52 @@
+.contenedor-principal {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+	font-size: 0px;
+}
+
+.fila1 {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0px;
+}
+
+.bloque1 {
+	background-color: green;
+}
+
+.bloque2 {
+	background-color: blue;
+}
+
+.fila2{
+	height: 300px;	
+	display: inline-block;
+}
+
+.grupo1{
+	width: 66.67% ;
+}
+
+.grupo2{
+	width: 50%;
+}
+
+.bloque3{
+	background-color: grey;
+}
+
+.bloque4{
+	background-color: black;
+}
+
+.bloque5{
+	background-color: orange;
+	width: 33.33%;
+}
+
+.borde {
+	border: 1px black solid;
+}
